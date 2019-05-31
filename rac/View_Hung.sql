@@ -1,0 +1,11 @@
+CREATE OR REPLACE FUNCTION tf_delete_viewds() RETURNS TRIGGER AS 
+$$
+	BEGIN
+		
+	END;
+$$
+LANGUAGE plpgsql;
+CREATE TRIGGER delete_ds
+INSTEAD OF INSERT ON view_dellstore
+FOR EACH ROW
+EXECUTE PROCEDURE tf_delete_viewds();

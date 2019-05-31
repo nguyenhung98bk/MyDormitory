@@ -1,0 +1,31 @@
+*Sinh viên
+-Đăng ký tài khoản(Đăng ký trùng tài khoản-> Đăng ký đúng) -> show database
+-Quên mật khẩu(Nhập sai user -> Nhập sai mssv -> Nhập đúng)
+-Đăng nhập(Nhập sai -> Nhập đúng) -> Trang chủ
+-Xem thông tin cá nhân -> Thay đổi thông tin cá nhân ->show db
+-Xem danh sách cán bộ quản lý
+-Đổi mật khẩu( Nhập sai -> Nhập Đúng) -> Show db
+-Xem đăng ký
+-Danh sách bạn cùng phòng
+-Đăng ký phòng (Phòng đầy -> Phòng khác giới -> đúng -> đk lại ) -> show db
+
+*Quản Lý
+-Hủy đăng ký -> show db
+-> *Sinh viên 
+-Đăng ký lại ->show db
+ ->*Quản lý
+-Duyệt đăng ký->show db
+-> Xem thông tin phòng
+-> Xóa sinh viên -> show db
+-> Xem thông tin sinh viên
+-> Chuyển phòng (Nhập sai phòng -> Nhập sai mssv -> Nhập đúng )-> show db
+-> Thống kê
+-> Duyệt đăng ký thêm 1 vài thằng.
+->*sinh viên : Xem danh sách bạn cùng phòng
+
+*Admin :
+- Thêm cán bộ quản lý -> show db
+-> Chỉnh sửa thông tin -> show 
+-> xóa cbql -> show
+->Thống kê 
+

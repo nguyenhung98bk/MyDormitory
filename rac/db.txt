@@ -1,0 +1,4 @@
+GRANT USEGE ON SCHEMA db_name Group(User db)
+
+CREATE INDEX index_name ON db_name USING btree (column) WHERE <DK>; 
+
